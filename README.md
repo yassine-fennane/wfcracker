@@ -2,7 +2,8 @@
 
 Get All Registered Wifi Passwords from Target Computer.
 
-![github-small]([/images/mail2.png](https://github.com/aydinnyunus/WifiPassword-Stealer/raw/master/images/mail2.png))
+![github-small]([![image](https://github.com/yassine-fennane/wfcracker/assets/132276042/e403d58c-da72-4f00-9c74-881212bf3ef9)
+))
 
 ## INSTALLATION
 #### (if you are using a python file)
@@ -14,7 +15,8 @@ pip install glob
 
 ```
 
-![github-small]([/images/mail.png](https://github.com/aydinnyunus/WifiPassword-Stealer/raw/master/images/mail.png))
+![github-small](![image](https://github.com/yassine-fennane/wfcracker/assets/132276042/5308be0d-f5e7-44ff-97be-9aa5ecc67687)
+)
 
 ## USAGE
 
