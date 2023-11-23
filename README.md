@@ -2,7 +2,7 @@
 
 Get All Registered Wifi Passwords from Target Computer.
 
-![github-small](/images/mail2.png)
+![github-small]([/images/mail2.png](https://github.com/aydinnyunus/WifiPassword-Stealer/raw/master/images/mail2.png))
 
 ## INSTALLATION
 #### (if you are using a python file)
@@ -14,18 +14,18 @@ pip install glob
 
 ```
 
-![github-small](/images/mail.png)
+![github-small]([/images/mail.png](https://github.com/aydinnyunus/WifiPassword-Stealer/raw/master/images/mail.png))
 
 ## USAGE
 
 •**Create an account on "https://mailtrap.io/" using a temp mail.**
 
-![github-small](/images/dene.png)
+![github-small]([/images/dene.png](https://github.com/aydinnyunus/WifiPassword-Stealer/raw/master/images/dene.png))
 
 
 •**Set your own SMTP USERNAME and SMTP PASSWORD on "main.py".**
 
-![github-small](/images/pass.png)
+![github-small]([/images/pass.png](https://github.com/aydinnyunus/WifiPassword-Stealer/raw/master/images/pass.png))
 
 •**Create EXE with this command".**
 
